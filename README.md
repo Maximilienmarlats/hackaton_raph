@@ -6,8 +6,8 @@ Clique pour gagner de l'essence, automatise avec des drones, et remplis le rése
 
 - **Menu compétences** : bouton 🌳 ouvre un overlay avec l'arbre de compétences (+ fermer avec ✕ ou Échap)
 - **Réservoir d'essence** : se remplit visuellement au fur et à mesure — couleur bleue → orange quand il approche du max
-- **Drones et icônes** : chaque automatisation achetée affiche une icône animée (🚁 mini drone, 🏭 ferme auto, ⚡ critiques, ✨ ascension)
-- **Condition de victoire** : quand tous les skills sont maxés ET que tu atteins 5000 essence, le réservoir déborde avec des animations, puis l'écran de victoire affiche ton temps et ton total d'essence
+- **Drones et icônes** : chaque automatisation achetée affiche une icône
+- **Condition de victoire** : quand tous les skills sont maxés ET que tu atteins 10000 essence, le réservoir déborde, puis l'écran de victoire s'affiche
 
 ## Gameplay
 
